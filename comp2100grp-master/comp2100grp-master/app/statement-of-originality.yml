@@ -1,0 +1,26 @@
+# for information & examples on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely my
+  own work, with the following exceptions:
+
+
+
+
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+code:
+  - comment: check the similiarity of two string
+    url: https://zatackcoder.com/java-program-to-check-two-strings-similarity/
+    licence:
+
+
+# sign *your* name and uid here
+name1: Jiayu Xu
+uid1: u6834422
+name2: Zhicheng Zou
+uid2: u6848764
+name3: Anran Xu
+uid3: u6834093
